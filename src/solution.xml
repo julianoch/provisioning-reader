@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<solution>
+    <channels>
+        <requestIndex>140</requestIndex>
+        <startingSlot>0</startingSlot>
+        <routingPath>40</routingPath>
+        <routingPath>38</routingPath>
+    </channels>
+    <channels>
+        <requestIndex>129</requestIndex>
+        <startingSlot>0</startingSlot>
+        <routingPath>39</routingPath>
+    </channels>
+</solution>
